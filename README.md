@@ -1,5 +1,7 @@
 
 # ClassRoom assignment (findes på dansk længere nede)
+Dansk og Engelsk
+Ændredes af Rasekh
 
 **Purpose: to refresh the concepts of class, properties, constructor, private/public, if/switch, git**
 
